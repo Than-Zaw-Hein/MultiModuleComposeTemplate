@@ -1,0 +1,1 @@
+/Users/stevdza-san/AndroidStudioProjects/DiaryApp/buildSrc/build/classes/kotlin/main/ProjectConfig.class
